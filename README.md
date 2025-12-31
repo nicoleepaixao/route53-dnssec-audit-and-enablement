@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="img/route53-dnssec-audit-and-enablement.png" alt="dnssec Architecture" width="1200">
+</p>
+
 ## **Overview**
 
 This repository provides a complete toolkit for auditing DNS zones across multiple AWS accounts and enabling DNSSEC for all eligible public Route 53 hosted zones. The toolkit includes automated inventory scripts, DNSSEC eligibility assessment, registrar verification, and comprehensive operational guides for safe DNSSEC deployment.
