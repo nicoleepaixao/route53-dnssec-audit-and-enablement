@@ -1,10 +1,8 @@
-# Route53 DNSSEC Audit and Enablement Toolkit
-
 <div align="center">
   
 ![AWS Route 53](https://img.icons8.com/color/96/amazon-web-services.png)
 
-## Strengthen DNS Security Across Multi-Account AWS Environments
+## Route53 DNSSEC Audit and Enablement Toolkit
 
 **Updated: December 2, 2025**
 
