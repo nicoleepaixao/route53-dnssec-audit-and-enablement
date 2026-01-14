@@ -4,17 +4,23 @@
 
 ## Route53 DNSSEC Audit and Enablement Toolkit
 
-**Updated: December 2, 2025**
+**Updated: January 14, 2026**
 
 [![Follow @nicoleepaixao](https://img.shields.io/github/followers/nicoleepaixao?label=Follow&style=social)](https://github.com/nicoleepaixao)
 [![Star this repo](https://img.shields.io/github/stars/nicoleepaixao/route53-dnssec-audit?style=social)](https://github.com/nicoleepaixao/route53-dnssec-audit)
+[![Medium Article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nicoleepaixao.medium.com/)
+
+<p align="center">
+  <a href="README-PT.md">🇧🇷</a>
+  <a href="README.md">🇺🇸</a>
+</p>
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="img/route53-dnssec-audit-and-enablement.png" alt="dnssec Architecture" width="1200">
+  <img src="img/route53-dnssec-audit-and-enablement.png" alt="dnssec Architecture" width="1800">
 </p>
 
 ## **Overview**
@@ -382,19 +388,6 @@ For more details about DNSSEC, Route 53 security, and DNS best practices, refer 
 
 ---
 
-## **Future Enhancements**
-
-| **Feature** | **Description** | **Status** |
-|-------------|-----------------|------------|
-| Automated Enablement | Script to enable DNSSEC across all eligible zones | Planned |
-| Multi-Region Support | Cross-region DNSSEC monitoring | In Development |
-| Compliance Reports | PCI-DSS and SOC 2 compliance templates | Planned |
-| Slack Notifications | Alert on DNSSEC status changes | Future |
-| Terraform Module | IaC for automated DNSSEC deployment | Planned |
-| Dashboard Integration | QuickSight visualization of DNSSEC coverage | Future |
-
----
-
 ## **Connect & Follow**
 
 Stay updated with AWS security automation and DNS best practices:
@@ -419,6 +412,8 @@ This toolkit is provided for DNS security auditing and DNSSEC enablement purpose
 
 **Happy securing your DNS infrastructure!**
 
-*Document last updated: December 5, 2025*
+*Document Created: December 5, 2025*
+
+Made with ❤️ by [Nicole Paixão](https://github.com/nicoleepaixao)
 
 </div>
